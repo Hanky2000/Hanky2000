@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Hank Weng
-- 👀 I’m interested in money
 - 🌱 I’m currently learning Information Management in NCU
-- 💞️ I’m looking to collaborate on Micro
-- 📫 How to reach me 0912345678
+
 Nice to meet you~
 
 <!---
